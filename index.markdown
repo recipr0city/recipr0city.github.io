@@ -6,3 +6,5 @@ layout: home
 ---
 
 the index page should say some stuff
+
+why
