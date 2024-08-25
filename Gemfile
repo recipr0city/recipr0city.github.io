@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "no-style-please"
 
-gem "github-pages", "~> 232", group: :jekyll_plugins
+# gem "github-pages", "~> 232", group: :jekyll_plugins
