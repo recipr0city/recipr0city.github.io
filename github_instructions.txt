@@ -1,0 +1,5 @@
+INSTRUCTIONS TO PUSH TO GIT WITH TERMINAL
+
+git add . -- adds all the changes you've made (eg add files, change files, delete files)
+git commit -m "write commit message here" -- commits changes 
+git push -- pushes changes to repo (you should see them reflected on the github page after you run this)
